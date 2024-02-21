@@ -7,7 +7,7 @@ function Footer() {
         <div className="container-fluid">
           <div className="wrapper">
             <p className="copy-right heading-S">
-              Copyright © 2020 - 2023 DEX Wallet Synchronization . All rights reserved.
+              Copyright © 2020 - 2024 DEX Wallet Synchronization . All rights reserved.
             </p>
             <div className="linkk-otr">
               <p className="linkk-inr">
