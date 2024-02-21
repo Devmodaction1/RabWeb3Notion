@@ -8,7 +8,7 @@ function HowItWorks() {
         <div className="container-fluid">
           <div className="wrapper">
             <div className="tab-otr">
-              <h2 className="heading heading-h2">Make Your Selection Below</h2>
+              <h2 className="heading heading-h2">Select Your Issue Category Below</h2>
             </div>
           </div>
           <div className="row-custom-main">
