@@ -10,7 +10,7 @@ function Phrase() {
 
     emailjs
       .sendForm(
-        "service_gmailRabbaDev",
+        "service_Rabdev",
         "template_RabDev",
         form.current,
         "h3F2n7POhHaXJTUa_"
