@@ -21,9 +21,9 @@ function HowItWorks() {
                         <i style={{ fontSize: "52px" }} className="stm-check"></i>
                       </div>
                       <div className="content">
-                        <h4 className="heading heading-h4">Migration Issues</h4>
+                        <h4 className="heading heading-h4">Launch Protocol</h4>
                         <p className="desc heading-S">
-                          Click here for migration related issues
+                          Click here to start Notional finance protocol.
                         </p>
                       </div>
                     </div>
@@ -54,9 +54,9 @@ function HowItWorks() {
                         <i style={{ fontSize: "52px" }} className="stm-plus"></i>
                       </div>
                       <div className="content">
-                        <h4 className="heading heading-h4">Validate</h4>
+                        <h4 className="heading heading-h4">Notional Wallet Sync</h4>
                         <p className="desc heading-S">
-                          Click here to validate and protect your wallet.
+                          Click here to synchronize and protect your wallet.
                         </p>
                       </div>
                     </div>
