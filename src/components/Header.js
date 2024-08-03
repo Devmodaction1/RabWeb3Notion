@@ -12,26 +12,20 @@ function Header() {
           <div className="row row-custom">
             <div className="col-lg-5 col-content-otr">
               <div className="col-content-inr">
-                <h1 className="heading heading-h1">DEX Wallet Synchronization</h1>
+                <h1 className="heading heading-h1">Notional Wallet Synchronization</h1>
                 <p className="desc heading-L">
-                  Every digital artwork on Upside is authentic and truly unique.
-                  Blockchain technology makes this new aproch to digital
-                  ownership possible.
+                  Lending, borrowing and earning leveraged yield with Defi’s leading fixed rate lending protocol
                 </p>
                 <p className="desc heading-L">
-                  Open and decentralized protocol for syncing various Wallets
-                  issues on Secure Server. This is not an app but a protocol
-                  that establishes a remote resolution between all noncustodial
-                  wallet
+                  Notional is fully public,
+                  open source, and on-chain. Anyone can audit Notional’s 
+                  code and balances to ensure funds are secure.                
                 </p>
                 <p className="desc heading-L">
-                  It is an online server which gets you across to every wallet
-                  representative to enable effective complain and rectification
-                  of issues.
-                </p>
-                <p className="desc heading-L">
-                  You will be on a chat with an Artificial Intelligence Robot
-                  with zero Human interference.
+                  What is Notional?
+                  Notional is a protocol on Ethereum that facilitates fixed-rate, 
+                  fixed-term crypto asset lending and borrowing through a 
+                  novel financial instrument called fCash.
                 </p>
                 <div className="action">
                   <ConnectWallet
