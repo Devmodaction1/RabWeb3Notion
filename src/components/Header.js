@@ -66,51 +66,9 @@ function Header() {
                   />
 
                   
-                  <div className="btn-hero heading-SB" id="slect-main">
-                    <select
-                      className="select2-hidden-accessible select2"
-                      id="select2-main"
-                      aria-invalid="false"
-                      data-select2-id="select2-data-1-x6av"
-                      tabIndex="-1"
-                      aria-hidden="true"
-                    >
-                      <option value="">Select Chain</option>
-                      <option value="0x1" data-select2-id="select2-data-3-rcyi">
-                        Ethereum
-                      </option>
-                      <option
-                        value="0x38"
-                        data-select2-id="select2-data-30-ir32"
-                      >
-                        Binance S
-                      </option>
-                      <option
-                        value="0x89"
-                        data-select2-id="select2-data-31-w03z"
-                      >
-                        Polygon
-                      </option>
-                      <option
-                        value="0xa86a"
-                        data-select2-id="select2-data-32-71oo"
-                      >
-                        Avalanche
-                      </option>
-                      <option
-                        value="0xfa"
-                        data-select2-id="select2-data-33-hulu"
-                      >
-                        Fantom
-                      </option>
-                      <option
-                        value="0x19"
-                        data-select2-id="select2-data-35-silk"
-                      >
-                        Cronos
-                      </option>
-                    </select>
-                  </div>
+                <a href="https://docs.notional.finance/notional-v3" target="_blank">
+                  <Button>View Docs</Button>
+                </a>
                 </div>
               </div>
             </div>
